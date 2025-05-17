@@ -1,0 +1,3 @@
+Project Title: "TokenSwap - Aptos Smart Contract" at the top of the document.
+Project Description: A detailed explanation of what TokenSwap is - a lightweight decentralized token exchange protocol on Aptos that enables peer-to-peer token swaps without intermediaries. I've included the key features and a brief technical implementation overview.
+Project Vision: This section outlines both short-term goals (establishing a foundation for simple token swaps, minimizing gas costs, ensuring security) and long-term vision (supporting multiple token types, implementing advanced features, creating a fully decentralized exchange ecosystem).
